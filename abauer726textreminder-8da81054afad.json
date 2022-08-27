@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "abauer726textreminder",
+  "private_key_id": "8da81054afad38cfa15d3e110b2ea15f02149bea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxJodOlx+DFTEz\nzv0tO1fgP/r+SSx02Uwxx4ftYd9XrI6+RwmU5335m5CvBjkk3tBv86DtqLCmM9rn\nr2E24Rk8AlEEI0S5fYsVdEk8gqS0eLVjNkTVTf9mtGIhR+5FEChqN0hyS2Ev9K7f\nANtp0yCoSpsPZUYl6ncZ9eDOhPYIcuz+NbX8s4Vusktu7kHkVoXnKr+AfoIUsoV+\n2jlg/KVjaYeWCTdQDDiO6WVR/cBxiQZYKdGAUHAz2v0jfPBGCD+l8Ktm3lg5av37\nGYdbORWA82fuaoOnjYQe7HOOHiQn2IXOebV2gmH6fqKvQTx+/JHld0ILFcRe2vui\nHPmUoLUdAgMBAAECggEABGWmUyGPv/mwYtuFT9bN8hXnqkfxST80ug5i7Dxf+YJu\nrDNoMS19ZEr9UHk9+HfQj0IDuxJsvA6Q2IWMyxQ53TiNGT/k201niXmwinncEh/m\nF+Q6pihaKaSNkP6Cxm0Si7xhv6ocuFhOJOCvd+6sVb3WuajNkNbDUqSJo9nYbFI4\n9bTBR4zT8b68Dho8+fOQ6miCtvSsRq4Dm9TwnPlVmzOHRyFzf879kXtvbYJHmmZ+\nU2s1ZR5a1UKTs/8M+pBCXySdoHUaGjKjC2WcFajlpO5IJCNvGHOngPHolptlXLJp\n3BGtBs+wo3nGlmaWrzXW/heUTODa9kXz7B/K59ILEQKBgQDiUqai/CRd8bYbI1GW\nYnMjDeTpCnCAYj6+brt2k8iQkBdpqXH1FiKbNaz6XuMtL6A2658JFJrhlVGxyy4Z\nIr/4B0dL8E6Me6bFvpr4VjhkdU1r/yHHrwBaL6XvqX6D7CjVVBs9QG4UPmf0f9hR\nfOiAt7m/20em4FmZ4m3DdpZxxQKBgQDIYTqZJZaNPBJc04ltLFlPv2F0B3RPcns5\nItMChSJtV7bCv4u//W92+CrSYm3K6HFkD8fTds/cpJPwRuTaYKLr6u1M2Zu3JB3C\nO2pq8EODCm64BlPa8b66U0TTeXxlD8xuwu2yOKRTByNOvd5OM3Ve8qKVRGGBU97Y\nyjnicIsjeQKBgHy+BW6r/vdwtGi8zMlQthlKHTN9N4jrnZ2kttqilddoNB9e75qg\neq6FpTPSfPB44ZujvuJoYv2XKZIPZPchuiFhEaD/cKvps4AmkI/0Jdzo8qVl2B6R\njGYpARLZnwvjbJY4Z1MZYhLyWqXemUJA0H2xxkXC/Pkziu9QaCNmB4HpAoGAc761\n+oCb1jk84iHO4CEd9dK2mC82IC4gv4A+ItaEbGSeTSAXuW7LVA1FrwDsKqjZ1tLG\nun+G0gy+56wLxZjMgznQmPOZ3tAd4HQxpFPkq2z7R5FgHrhFU5uFxiIGmNnnXJN8\nedX+FXeqDXHfV4yh35aIE3DMYcfwkYk+pm4b8QECgYEAyxiwzRlfy8a9/TK0Vsnr\nOyt1PRfNkSwEd8ZdIBAckWT1ZFFNQqwQkjv8MwHiFWb7/yAjZy0TvNXsuEmztt+F\neSF4N97BYOlmDqOYqFYFo1gXdlVVfS8pHMnz0nZjn4FGn2m5CV9LNlyYaISX7HwJ\nSe3hqfm/vVc9sYZATz6Zt7I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "annaserviceaccount@abauer726textreminder.iam.gserviceaccount.com",
+  "client_id": "102345502676706834759",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/annaserviceaccount%40abauer726textreminder.iam.gserviceaccount.com"
+}
